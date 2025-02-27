@@ -37,8 +37,8 @@ Este proyecto es un microservicio en Symfony diseñado para cargar grandes volú
 ### 🔹 **Clonar el Repositorio**
 
 ```bash
-git clone https://github.com/tu-usuario/symfony-csv-api.git
-cd symfony-csv-api
+git clone https://github.com/AndreuPuchades/symfony_csv_api.git
+cd symfony_csv_api
 ```
 
 ---
